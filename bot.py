@@ -1,4 +1,4 @@
---This bot replys to the mimiced user with exactly what they say how to use, !mimceuser <useid> !stopmimic (stops affected users) 
+--This bot replys to the mimiced user with exactly what they say how to use, !mimcuser <useid> !stopmimic (stops affected users) 
 
 import discord
 import asyncio
